@@ -39,6 +39,7 @@ public class WorkUaLoginTest {
         System.out.println("passwordErrorMessage" + passwordErrorMessage);
         Assert.assertEquals(emailErrorMessage,"Будь ласка, введіть вашу ел. пошту.");
         Assert.assertEquals(passwordErrorMessage,"Будь ласка, введіть ваш пароль.");
+//        Assert.assertEquals(passwordErrorMessage,"Будь ласка, введіть ваш пароль.");
     }
 
     @Step
