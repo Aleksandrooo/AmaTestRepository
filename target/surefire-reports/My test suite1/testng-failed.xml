@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [My test suite1]" parallel="classes">
+  <test thread-count="1" verbose="0" name="work_ua-register(failed)" parallel="classes">
+    <classes>
+      <class name="test.WorkUaRegisterTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="CheckValidationOfRegisterForm" invocation-numbers="3"/>
+          <include name="AfterSuite"/>
+        </methods>
+      </class> <!-- test.WorkUaRegisterTest -->
+    </classes>
+  </test> <!-- work_ua-register(failed) -->
+</suite> <!-- Failed suite [My test suite1] -->
