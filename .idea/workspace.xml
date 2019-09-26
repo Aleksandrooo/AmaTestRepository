@@ -57,8 +57,8 @@
       <file leaf-file-name="WorkUaRegisterTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/WorkUaRegisterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="55" column="123" lean-forward="false" selection-start-line="55" selection-start-column="123" selection-end-line="55" selection-end-column="123" />
+            <state relative-caret-position="96">
+              <caret line="45" column="96" lean-forward="true" selection-start-line="45" selection-start-column="96" selection-end-line="45" selection-end-column="96" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -877,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/WorkUaRegisterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="55" column="123" lean-forward="false" selection-start-line="55" selection-start-column="123" selection-end-line="55" selection-end-column="123" />
+        <state relative-caret-position="96">
+          <caret line="45" column="96" lean-forward="true" selection-start-line="45" selection-start-column="96" selection-end-line="45" selection-end-column="96" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
